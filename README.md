@@ -8,4 +8,6 @@ So far, I’ve worked mainly with **MSP430 microcontrollers in Assembly**, build
 
 - **[GPIO_interrupts](https://github.com/yonisartov/GPIO_interrupts)** – Finite State Machine triggered by button interrupts: binary counter, walking LED, square-wave generator.  
 - **[Timers](https://github.com/yonisartov/Timers)** – Timer_A in capture and countdown modes: LCD countdown timer and external frequency measurement.  
-- **[Analog_to_digital](https://github.com/yonisartov/Analog_to_digital)** – ADC10 sampling and classification of analog inputs (sine, triangle, PWM) with results displayed on LCD.  
+- **[Analog_to_digital](https://github.com/yonisartov/Analog_to_digital)** – ADC10 sampling and classification of analog inputs (sine, triangle, PWM) with results displayed on LCD.
+
+  Always curious to learn new technologies in hardware and software, and to expand my practical experience.
