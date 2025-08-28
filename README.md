@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a 2nd-year B.Sc. student in Electrical and Computer Engineering at Ben-Gurion University.  
+I'm starting my 3rd year as a B.Sc. student in Electrical and Computer Engineering at Ben-Gurion University.  
 My main interests are **chip design, processor architecture, and embedded systems**.  
 
 This GitHub is where I share academic and personal projects that reflect my progress in hardware and software development.  
